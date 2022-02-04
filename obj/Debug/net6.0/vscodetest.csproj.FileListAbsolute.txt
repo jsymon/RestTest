@@ -1,0 +1,15 @@
+/mnt/c/Users/jamess/vscodetest/bin/Debug/net6.0/vscodetest
+/mnt/c/Users/jamess/vscodetest/bin/Debug/net6.0/vscodetest.deps.json
+/mnt/c/Users/jamess/vscodetest/bin/Debug/net6.0/vscodetest.runtimeconfig.json
+/mnt/c/Users/jamess/vscodetest/bin/Debug/net6.0/vscodetest.dll
+/mnt/c/Users/jamess/vscodetest/bin/Debug/net6.0/ref/vscodetest.dll
+/mnt/c/Users/jamess/vscodetest/bin/Debug/net6.0/vscodetest.pdb
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/vscodetest.csproj.AssemblyReference.cache
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/vscodetest.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/vscodetest.AssemblyInfoInputs.cache
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/vscodetest.AssemblyInfo.cs
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/vscodetest.csproj.CoreCompileInputs.cache
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/vscodetest.dll
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/ref/vscodetest.dll
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/vscodetest.pdb
+/mnt/c/Users/jamess/vscodetest/obj/Debug/net6.0/vscodetest.genruntimeconfig.cache
